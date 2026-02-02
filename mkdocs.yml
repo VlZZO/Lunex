@@ -1,0 +1,15 @@
+site_name: Lua Configurator
+site_description: Documentação compacta do Lua Configurator
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+    - scheme: default
+      primary: indigo
+      accent: indigo
+plugins:
+  - search
+nav:
+  - Home: index.md
